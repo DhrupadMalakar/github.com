@@ -1,4 +1,4 @@
-# github.com
+# FanPulse EPL
 # FanPulse EPL — AI Agent for Sports Sentiment Analytics
 
 An autonomous AI agent that reads 72 hours of Reddit discussion for all 20 Premier League clubs, classifies fan sentiment, extracts most-discussed players, and generates a consulting-style insight table.
